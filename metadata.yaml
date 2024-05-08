@@ -13,6 +13,9 @@ contributor:
     alias: Matthews, H. B. (Harry B.)
     gutenberg_agent_id: '35330'
     url: http://www.gutenberg.org/2009/agents/35330
+covers:
+- cover_type: archival
+  image_path: 73409-h/images/coversmall.jpg
 creator:
   author:
     agent_name: Snaith, J. C. (John Collis)
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37216
     wikipedia: https://en.wikipedia.org/wiki/John_Snaith
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73409#Patricia-at-the-inn
 gutenberg_issued: '2024-04-17'
 gutenberg_type: Text
 identifiers:
